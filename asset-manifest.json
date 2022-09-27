@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4c909ca8.css",
+    "main.js": "./static/js/main.58cf4f27.js",
+    "static/js/787.ff002f5d.chunk.js": "./static/js/787.ff002f5d.chunk.js",
+    "static/media/backgroundHeader.png": "./static/media/backgroundHeader.755f826548b56ec254d0.png",
+    "static/media/backgroundFooter.png": "./static/media/backgroundFooter.db60123d47b394a1469a.png",
+    "static/media/imgPhone1.png": "./static/media/imgPhone1.a64291c7da20d5a76739.png",
+    "static/media/imgPhone3.png": "./static/media/imgPhone3.2946dccd7f41addf3ba5.png",
+    "static/media/imgPhone5.png": "./static/media/imgPhone5.65d52bef1e07e285e3f6.png",
+    "static/media/imgPhone4.png": "./static/media/imgPhone4.b9f06730a8db6b9e571d.png",
+    "static/media/imgPhone2.png": "./static/media/imgPhone2.100a210b8220255dc1b9.png",
+    "static/media/LogoApp.png": "./static/media/LogoApp.5fa26e21c018b4d18e98.png",
+    "index.html": "./index.html",
+    "main.4c909ca8.css.map": "./static/css/main.4c909ca8.css.map",
+    "main.58cf4f27.js.map": "./static/js/main.58cf4f27.js.map",
+    "787.ff002f5d.chunk.js.map": "./static/js/787.ff002f5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c909ca8.css",
+    "static/js/main.58cf4f27.js"
+  ]
+}
