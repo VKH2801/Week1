@@ -6,12 +6,6 @@ h1 {
     color: #252B42;
 }
 
-/* @media screen and (min-width: 240px) {} */
-
-/*Iphone(480 x 640)*/
-/* @media screen and (min-width: 320px) {} */
-
-/* Iphone 11 Pro Max */
 @media only screen and (min-width: 320px) {
     body {
         -ms-overflow-style: none;
@@ -310,15 +304,6 @@ h1 {
     }
 }
 
-/* 
-/*Tablet nhỏ(480 x 640)*/
-/* @media screen and (min-width: 480px) {} */
-
-/*Ipad dọc(768 x 1024)*/
-/* @media screen and (min-width: 768px) {} */
-
-/*Ipad ngang(1024 x 768)*/
-/* @media screen and (min-width: 1024px) {}  */
 
 @media screen and (min-width: 1024px) {
     body::-webkit-scrollbar {
